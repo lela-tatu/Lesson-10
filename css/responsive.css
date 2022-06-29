@@ -1,8 +1,9 @@
 @media (max-width: 768px) {
-    .nav {
+    .li {
         display: none;
     }
     .bar {
         display: block;
+        
     }
 }
