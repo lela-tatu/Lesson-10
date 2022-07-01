@@ -5,7 +5,8 @@
   
   background-image: url(../image/Group.jpg);
   max-width: 100%;
-  height: 324px;;
+  height: 324px;
+  
   
 }
 /*nav-style*/
@@ -73,7 +74,8 @@
   justify-content: center;
    margin: 40px;
    border: #707070;
-   fill: #000; ;
+   fill: #000;
+   background-size: cover;
 }
 
 .mini-box{
